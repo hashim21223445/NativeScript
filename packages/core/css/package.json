@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "mocha": "^1.21.3",
-    "should": "^4.0.4",
+    "should": "^13.2.3",
     "matcha": "^0.5.0",
     "bytes": "^1.0.0"
   },
