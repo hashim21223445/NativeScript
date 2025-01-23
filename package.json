@@ -51,7 +51,7 @@
     "husky": "^9.0.0",
     "jest": "~29.7.0",
     "jest-environment-jsdom": "~29.7.0",
-    "lint-staged": "^15.2.0",
+    "lint-staged": "^15.4.1",
     "module-alias": "^2.2.2",
     "nativescript": "8.8.0-pre-next-07-03-2024-9781798152",
     "nativescript-typedoc-theme": "1.1.0",
